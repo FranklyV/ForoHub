@@ -73,7 +73,3 @@ Nuestra API permite realizar las siguientes acciones:
 3. Realiza tus cambios y haz commit: `git commit -m 'Agrega nueva funcionalidad'`
 4. Envía tus cambios: `git push origin feature/nueva-funcionalidad`
 5. Abre un Pull Request.
-
-## Contacto
-
-Para más información, puedes contactarme en [LinkedIn](https://www.linkedin.com/in/arykorenvais/).
